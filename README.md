@@ -26,7 +26,7 @@ When estimating the population using covariate data with the means, logpop, and 
 
 ![](Means.png)
 
-#Rwanda Urban Populations
+## Rwanda Urban Populations
 
 ![](Population.png)
 
