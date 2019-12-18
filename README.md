@@ -26,6 +26,10 @@ When estimating the population using covariate data with the means, logpop, and 
 
 ![](Means.png)
 
+The 3D video rendering of the country's elevation levels shows the higher levels of elevation in the northeast region and some of the smaller depression and elevation differences throughout the rest of the country. 
+
+![](Rwanda.gif)
+
 ## Rwanda Urban Populations
 
 ![](Population.png)
@@ -46,7 +50,11 @@ The healthcare system is currently one of the best in Africa, after a giant push
 
 Rwanda's healthcare has been increasing rapidly to try and reform the country after the genocide left it in ruins. With help from both the government and NGOs, the country has been able to provide universal healthcare for its people and rennovate many of the hospitals. Although the country has significantly improved, there is still a great need for specialized healthcare access and access in more rural areas of the country. 
 
+![](rutongo.png)
+Above is a picture of the newly renovated Rutongo District Hospital
 
+![](rutongo_map.png)
+Above is a map screenshot showing the location of the Rutongo District Hospital in the region. 
 
 
 
